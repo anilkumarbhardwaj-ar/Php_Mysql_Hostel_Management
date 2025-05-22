@@ -1,0 +1,21 @@
+{
+    "name": "fariyadkhan/dynamic-new-hostel",
+    "description": "Hostel Management System",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fariyadkhan\\DynamicNewHostel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fariyad Khan",
+            "email": "faryadk311@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
